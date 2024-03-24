@@ -1,1 +1,1 @@
-# Simple-Group-CHat-Application
+# Simple-Group-Chat-Application
